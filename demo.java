@@ -1,6 +1,19 @@
 class Demo{
 
-public static void maiin()
+void DEPOSITE()
+{
+	......
+}
+
+
+void WITHDRWA() 
+
+{
+.........
+
+}	
+
+ public static void main()
 {
 system.out.println("Hi hello java");
 
