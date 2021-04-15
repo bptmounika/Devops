@@ -1,10 +1,13 @@
 class Demo{
 	void Add()
 	{
-		............
+		a+b
 	}
-
-void DEPOSITE()
+	void SUB()
+	{
+		a-b
+	}
+ void DEPOSITE()
 {
 	......
 }
